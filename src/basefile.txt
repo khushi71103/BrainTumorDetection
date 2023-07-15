@@ -1,0 +1,19 @@
+BRAIN TUMOR report by MindTumorVision
+
+     Patient name:Khushi
+     Age: 18
+     Email id:jackson10021903@gmail.com
+     Contact no:7708138923
+
+     Diagnosis:
+     1. Brain MRI scan shows signs of tumor.
+     2. Patient is stronlgy advised to meet a neurosurgeon or neuro-oncologist.
+     3. Patient will require surgery to avoid any further tumor related issues.
+
+     Further advice for treatment:
+     ->Based on the imaging findings, further medical evaluation and consultation 
+       with a neurosurgeon or neuro-oncologist are recommended.
+     ->For further advice the patient can visit the nearest hospital 
+        to the current location(as displayed on the website).
+     ->To contact us visit our MindTumorVision web app.
+     
